@@ -29,7 +29,7 @@ setup(
     long_description=readme,
     author='Henrique Bastos',
     author_email='henrique@bastos.net',
-    url='https://github.com/henriquebastos/floppymodelforms',
+    url='https://github.com/henriquebastos/django-floppymodelforms',
     packages=[
         'floppymodelforms',
     ],
@@ -40,7 +40,7 @@ setup(
     ],
     license="BSD",
     zip_safe=False,
-    keywords='floppymodelforms',
+    keywords='floppymodelforms floppy forms django',
     classifiers=[
         'Framework :: Django',
         'Intended Audience :: Developers',
