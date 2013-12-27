@@ -26,7 +26,7 @@ Install the package:
 Usage
 -----
 
-To activate django-floppymodelforms in a project, add it to ``INSTALLED_APPS``
+Add ``floppymodelforms`` to your project's ``INSTALLED_APPS``
 after the ``floppyforms`` app.
 
 .. code:: python
