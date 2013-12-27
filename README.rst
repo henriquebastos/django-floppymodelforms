@@ -5,13 +5,13 @@ django-floppymodelforms
 A hack to force Django's ModelForm to use floppyforms_ fields.
 
 .. image:: https://badge.fury.io/py/floppymodelforms.png
-    :target: http://badge.fury.io/py/floppymodelforms
+    :target: http://badge.fury.io/py/django-floppymodelforms
 
 .. image:: https://travis-ci.org/henriquebastos/floppymodelforms.png?branch=master
-        :target: https://travis-ci.org/henriquebastos/floppymodelforms
+        :target: https://travis-ci.org/henriquebastos/django-floppymodelforms
 
 .. image:: https://pypip.in/d/floppymodelforms/badge.png
-        :target: https://crate.io/packages/floppymodelforms?version=latest
+        :target: https://crate.io/packages/django-floppymodelforms?version=latest
 
 Installation
 ------------
