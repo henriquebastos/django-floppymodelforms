@@ -50,4 +50,4 @@ License
 BSD License
 
 
-.. _floppyforms:: https://github.com/brutasse/django-floppyforms
+.. _floppyforms: https://github.com/brutasse/django-floppyforms
